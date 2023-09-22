@@ -14,5 +14,10 @@ namespace TryXAmarin_v2
         {
             InitializeComponent();
         }
+
+        private void Layouts_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new Pages.Pages());
+        }
     }
 }

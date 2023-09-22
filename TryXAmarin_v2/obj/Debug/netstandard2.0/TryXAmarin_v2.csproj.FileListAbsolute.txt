@@ -5,6 +5,8 @@ C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\TryXAmarin_v2.cs
 C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\TryXAmarin_v2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\Pages\ContentView_.xaml.g.cs
+C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\Pages\Pages.xaml.g.cs
 C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\TryXAmarin_v2.AssemblyInfoInputs.cache
 C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\TryXAmarin_v2.AssemblyInfo.cs
 C:\Xamarin\TryXAmarin_v2\TryXAmarin_v2\obj\Debug\netstandard2.0\TryXAmarin_v2.csproj.CoreCompileInputs.cache
