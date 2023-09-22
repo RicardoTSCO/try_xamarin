@@ -2,8 +2,8 @@
 This project was created to academic goals, test the main components of Xamarin
 ## How it´s Works
 I decided divide this project in module
-1. LayOuts []
-    01. ContentView []
+1. LayOuts - [ ]
+    01. ContentView - ( )
     02. Frame []
     03. ScrollView []
     04. TemplatedView []
