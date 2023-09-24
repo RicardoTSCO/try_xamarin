@@ -1,19 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "u6/RgdzngsXvIJatfvDL6SqdHTYoFOczJ3R+lyLGqSCumxCVf+QItUKd2VrtaMyjYCUulj2W9xxvo+qPL8ru3Q==",
+  "dgSpecHash": "+2FwEyN3SJQvCdoDikrSJok+1bq3xskj8wrq/BG6cnffgSRwh0cUkD+0M2qdXmGW00P/BM6Ay9++oj1/Mo+L+A==",
   "success": true,
-  "projectFilePath": "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2.iOS\\TryXAmarin_v2.iOS.csproj",
+  "projectFilePath": "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2.iOS\\TryXAmarin_v2.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ricardo.miguel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "C:\\Users\\juset\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\juset\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\juset\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops.luanda.inss.local/tfs/INSS/_packaging/packages.inss.lan/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

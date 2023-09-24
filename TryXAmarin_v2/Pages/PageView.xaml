@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TryXAmarin_v2.Pages.PageView">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="Welcome to Xamarin.Forms!"
+    VerticalOptions="CenterAndExpand" 
+    HorizontalOptions="CenterAndExpand" />
+            <Button Text="ContentPage" x:Name="btnContentPage" Clicked="btnContentPage_Clicked" />
+            <Button Text="FlyoutPage" x:Name="btnFrame" />
+            <Button Text="NavigationPage" x:Name="btnNavigationPage" />
+            <Button Text="TabbedPage" x:Name="btnTabbedPage" />
+            <Button Text="CarouselPage" x:Name="btnCarouselPage" />
+            <Button Text="TemplatedPage" x:Name="btnTemplatedPage" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
