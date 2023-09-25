@@ -2,10 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TryXAmarin_v2.Pages.PageContentPage" 
-             Title="ContentPage Demo"
-             Padding="10">
+             Title="Hello World">
+
+    <NavigationPage.TitleView>
+        <Label  Text="custom TitleView----->"/>
+    </NavigationPage.TitleView>
+
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout Padding="10">
             <Label Text="ContentPage"
            FontSize="40"
            FontAttributes="Bold"

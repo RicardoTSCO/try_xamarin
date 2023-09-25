@@ -22,5 +22,10 @@ namespace TryXAmarin_v2.Pages
             Navigation.PushModalAsync(new PageContentPage());
 
         }
+
+        private void btnFlyoutPage_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new FluoutPage.PageFlyoutPage());
+        }
     }
 }

@@ -15,3 +15,6 @@ C:\Xamarim\try_xamarin\TryXAmarin_v2\bin\Debug\netstandard2.0\TryXAmarin_v2.pdb
 C:\Xamarim\try_xamarin\TryXAmarin_v2\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarim\try_xamarin\TryXAmarin_v2\obj\Debug\netstandard2.0\ref\TryXAmarin_v2.dll
 C:\Xamarim\try_xamarin\TryXAmarin_v2\obj\Debug\netstandard2.0\Pages\PageContentPage.xaml.g.cs
+C:\Xamarim\try_xamarin\TryXAmarin_v2\obj\Debug\netstandard2.0\Pages\FluoutPage\PageFlyoutPage.xaml.g.cs
+C:\Xamarim\try_xamarin\TryXAmarin_v2\obj\Debug\netstandard2.0\Pages\FluoutPage\PageFlyoutPageDetail.xaml.g.cs
+C:\Xamarim\try_xamarin\TryXAmarin_v2\obj\Debug\netstandard2.0\Pages\FluoutPage\PageFlyoutPageFlyout.xaml.g.cs

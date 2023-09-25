@@ -8,7 +8,7 @@
     VerticalOptions="CenterAndExpand" 
     HorizontalOptions="CenterAndExpand" />
             <Button Text="ContentPage" x:Name="btnContentPage" Clicked="btnContentPage_Clicked" />
-            <Button Text="FlyoutPage" x:Name="btnFrame" />
+            <Button Text="FlyoutPage" x:Name="btnFlyoutPage" Clicked="btnFlyoutPage_Clicked" />
             <Button Text="NavigationPage" x:Name="btnNavigationPage" />
             <Button Text="TabbedPage" x:Name="btnTabbedPage" />
             <Button Text="CarouselPage" x:Name="btnCarouselPage" />

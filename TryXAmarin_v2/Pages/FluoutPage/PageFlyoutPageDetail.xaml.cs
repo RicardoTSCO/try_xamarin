@@ -7,15 +7,14 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace TryXAmarin_v2.Pages
+namespace TryXAmarin_v2.Pages.FluoutPage
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PageContentPage : ContentPage
+    public partial class PageFlyoutPageDetail : ContentPage
     {
-        public PageContentPage()
+        public PageFlyoutPageDetail()
         {
             InitializeComponent();
-            NavigationPage.SetHasNavigationBar(this, true);
         }
     }
 }

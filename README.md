@@ -15,7 +15,7 @@ I decided divide this project in module
     - [ ] FlexLayout 
 - [ ] Pages 
     - [x] ContentPage 
-    - [ ] FlyoutPage 
+    - [x] FlyoutPage 
     - [ ] NavigationPage 
     - [ ] TabbedPage 
     - [ ] CarouselPage 
