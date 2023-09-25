@@ -8,17 +8,5 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("TryXAmarin_v2.Pages.ContentView_.xaml", "Pages/ContentView_.xaml", typeof(global::TryXAmarin_v2.Pages.ContentView_))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("TryXAmarin_v2.Pages.ContentView_.xaml", "Pages/ContentView_.xaml", null)]
 
-namespace TryXAmarin_v2.Pages {
-    
-    
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\ContentView_.xaml")]
-    public partial class ContentView_ : global::Xamarin.Forms.ContentView {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ContentView_));
-        }
-    }
-}

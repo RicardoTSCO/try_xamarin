@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638309915153953234
+_nugetassetstimestamp=638311119820112470
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\xamarin\tryxamarin_v2\tryxamarin_v2.android\tryxamarin_v2.android.csproj
+projectfullpath=c:\xamarim\try_xamarin\tryxamarin_v2.android\tryxamarin_v2.android.csproj

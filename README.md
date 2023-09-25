@@ -3,7 +3,7 @@ This project was created to academic goals, test the main components of Xamarin
 ## How it´s Works
 I decided divide this project in module
 - [ ] LayOuts 
-    - [ ] ContentView - ( )
+    - [ ] ContentView
     - [ ] Frame 
     - [ ] ScrollView 
     - [ ] TemplatedView 
@@ -14,8 +14,8 @@ I decided divide this project in module
     - [ ] RelativeLayout 
     - [ ] FlexLayout 
 - [ ] Pages 
-    - [ ] ContentPage 
-    - [ ] FlyoutPage 
+    - [x] ContentPage 
+    - [x] FlyoutPage 
     - [ ] NavigationPage 
     - [ ] TabbedPage 
     - [ ] CarouselPage 
