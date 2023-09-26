@@ -8,7 +8,7 @@
             <Entry Placeholder="Email do usúario" Keyboard="Email"  />
             <Entry Placeholder="Senha" IsPassword="true" />
             <StackLayout>
-                <Button Text="Login"  BackgroundColor="Orange" TextColor="White"/>
+                <Button Text="Login" HorizontalOptions="Center" BackgroundColor="Orange" TextColor="White"/>
                 <Button Text="Register" HorizontalOptions="FillAndExpand" BackgroundColor="Gray" TextColor="White" />
             </StackLayout>
         </StackLayout>
