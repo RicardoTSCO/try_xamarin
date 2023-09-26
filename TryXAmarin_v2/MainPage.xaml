@@ -8,7 +8,7 @@
             <Label Text="Try Xamarin Components" HorizontalTextAlignment="Center" TextColor="White" FontSize="26"/>
         </Frame>
         <StackLayout Padding="10">
-            <Button Text="Layouts" x:Name="Layouts" CornerRadius="10" TextColor="White" BackgroundColor="#2196F3"/>
+            <Button Text="Layouts" x:Name="Layouts" CornerRadius="10" TextColor="White" BackgroundColor="#2196F3" Clicked="Layouts_Clicked"/>
             <Button Text="Pages" x:Name="Pages" Clicked="Pages_Clicked" CornerRadius="10" TextColor="White" BackgroundColor="#2196F3"/>
             <Button Text="Views" x:Name="Views" CornerRadius="10" TextColor="White" BackgroundColor="#2196F3"/>
             <Button Text="Cells" x:Name="Cells" CornerRadius="10" TextColor="White" BackgroundColor="#2196F3"/>

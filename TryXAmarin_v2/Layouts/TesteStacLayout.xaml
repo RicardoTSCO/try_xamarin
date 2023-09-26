@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TryXAmarin_v2.Layouts.TesteStacLayout">
+    <StackLayout>
+        <Label Text="Start" BackgroundColor="Blue" HorizontalOptions="Start " />
+        <Label Text="Center" BackgroundColor="red" HorizontalOptions="Center" />
+        <Label Text="End" BackgroundColor="Yellow" HorizontalOptions="End" />
+        <Label Text="Fill" BackgroundColor="Orange" HorizontalOptions="Fill" />
+
+        <Label Text="StartAndExpand" BackgroundColor="Green" HorizontalOptions="StartAndExpand" />
+        <Label Text="CenterAndExpand" BackgroundColor="Black" HorizontalOptions="CenterAndExpand" />
+        <Label Text="EndAndExpand" BackgroundColor="Brown" HorizontalOptions="EndAndExpand" />
+        <Label Text="FillAndExpand" BackgroundColor="Pink" HorizontalOptions="FillAndExpand" />
+    </StackLayout>
+
+</ContentPage>

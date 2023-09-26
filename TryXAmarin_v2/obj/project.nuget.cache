@@ -1,14 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "YgTE4rbjEXRWCrGW51tR29xwfwvhi2uR0buPHPQdrjgmUHPS7VRT6jUMZVHe435AR3DB+AmPJJYw4rO4PKHeHA==",
+  "dgSpecHash": "zARA/zpysIlXpAoOeUX3Kc7zEd1BL+nzal8p4ow1bcN8RnIpFNWwHGB175FtAlba/yM2eqoNF0lzxJ7adf1MIw==",
   "success": true,
-  "projectFilePath": "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2\\TryXAmarin_v2.csproj",
+  "projectFilePath": "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2\\TryXAmarin_v2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\juset\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\juset\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\juset\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\juset\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Users\\juset\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "C:\\Users\\ricardo.miguel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ricardo.miguel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ricardo.miguel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops.luanda.inss.local/tfs/INSS/_packaging/packages.inss.lan/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

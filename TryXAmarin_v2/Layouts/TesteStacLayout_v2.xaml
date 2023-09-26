@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TryXAmarin_v2.Layouts.TesteStacLayout_v2" BackgroundColor="White">
+    <ScrollView>
+        <StackLayout Margin="10">
+            <Image Source="logo.png" WidthRequest="100" HeightRequest="100" />
+            <Entry Placeholder="Email do usúario" Keyboard="Email"  />
+            <Entry Placeholder="Senha" IsPassword="true" />
+            <StackLayout>
+                <Button Text="Login"  BackgroundColor="Orange" TextColor="White"/>
+                <Button Text="Register" HorizontalOptions="FillAndExpand" BackgroundColor="Gray" TextColor="White" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1256,40 +1256,43 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juset\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ricardo.miguel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2.iOS\\TryXAmarin_v2.iOS.csproj",
+      "projectUniqueName": "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2.iOS\\TryXAmarin_v2.iOS.csproj",
       "projectName": "TryXAmarin_v2.iOS",
-      "projectPath": "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2.iOS\\TryXAmarin_v2.iOS.csproj",
-      "packagesPath": "C:\\Users\\juset\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2.iOS\\obj\\",
+      "projectPath": "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2.iOS\\TryXAmarin_v2.iOS.csproj",
+      "packagesPath": "C:\\Users\\ricardo.miguel\\.nuget\\packages\\",
+      "outputPath": "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\juset\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricardo.miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 3.3.0\\packages": {},
+        "http://devops.luanda.inss.local/tfs/INSS/_packaging/packages.inss.lan/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2\\TryXAmarin_v2.csproj": {
-              "projectPath": "C:\\Xamarim\\try_xamarin\\TryXAmarin_v2\\TryXAmarin_v2.csproj"
+            "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2\\TryXAmarin_v2.csproj": {
+              "projectPath": "C:\\Xamarin\\TryXAmarin_v2\\TryXAmarin_v2\\TryXAmarin_v2.csproj"
             }
           }
         }
@@ -1323,5 +1326,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops.luanda.inss.local/tfs/INSS/_packaging/packages.inss.lan/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

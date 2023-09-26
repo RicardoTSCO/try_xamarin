@@ -8,14 +8,14 @@ I decided divide this project in module
     - [ ] ScrollView 
     - [ ] TemplatedView 
     - [ ] ContentPresenter 
-    - [ ] StackLayout 
+    - [x] StackLayout 
     - [ ] Grid 
     - [ ] AbsoluteLayout 
     - [ ] RelativeLayout 
     - [ ] FlexLayout 
 - [ ] Pages 
     - [x] ContentPage 
-    - [x] FlyoutPage 
+    - [ ] FlyoutPage 
     - [ ] NavigationPage 
     - [ ] TabbedPage 
     - [ ] CarouselPage 
